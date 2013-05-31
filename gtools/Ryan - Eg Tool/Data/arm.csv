@@ -1,0 +1,3 @@
+arm_1_bind_joint,"[(-1.0, 1.0, 0.0)]"
+arm_2_bind_joint,"[(0.0, 1.0, 0.0)]"
+arm_3_bind_joint,"[(1.0, 1.0, 0.0)]"
